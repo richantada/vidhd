@@ -1,0 +1,67 @@
+#EXTM3U 
+#EXTINF: -1 tvg-logo="http://193.70.73.242:51651/images/zalindo/nettv.png" group-title="TV Lokal", NET TV HD
+https://etslive-2-vidio-com.akamaized.net/exp=1589532061~acl=/hls-b/ingest_875_*/*~hmac=23063c281de0b455c6e452fb5ee8f7d868489de1eb1bc41670a44c4d1cdb8be8/hls-b/ingest_875_720p/index.m3u8
+#EXTINF: -1 tvg-logo="http://193.70.73.242:51651/images/zalindo/nettv.png" group-title="TV Lokal", NET TV Backup
+https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/index.m3u8
+#EXTINF: -1 tvg-logo="http://193.70.73.242:51651/images/zalindo/kompastv.png" group-title="TV Lokal", Kompas TV HD
+https://etslive-2-vidio-com.akamaized.net/exp=1589531964~acl=/hls-b/ingest_874_*/*~hmac=2ce2b5bd530ab749bcf7b8ad66d56f8f2b47a48ba4319c87f9f2f62c7e28fed1/hls-b/ingest_874_720p/index.m3u8
+#EXTINF: -1 tvg-logo="http://193.70.73.242:51651/images/zalindo/rtv.png" group-title="TV Lokal", RTV HD
+https://etslive-2-vidio-com.akamaized.net/exp=1589532061~acl=/hls-p/ingest_geo_1561_*/*~hmac=10901122194a0c9b7d774bd315bfb9f78ffd77d3d6a8dcaa178a4bc002bd9307/hls-p/ingest_geo_1561_720p/index.m3u8
+#EXTINF: -1 tvg-logo="http://193.70.73.242:51651/images/zalindo/beritasatutv.png" group-title="TV Lokal", Berita Satu HD
+https://etslive-2-vidio-com.akamaized.net/exp=1589532061~acl=/hls-p/ingest_6165_*/*~hmac=fcfe706e10cfb7dc6d25d911543d2061cbe615a7ea9c9c4dc2fa445eb93322e0/hls-p/ingest_6165_720p/index.m3u8
+#EXTINF: -1 tvg-logo="http://193.70.73.242:51651/images/zalindo/tvri.png" group-title="TV Lokal", TVRI HD
+https://etslive-2-vidio-com.akamaized.net/exp=1589531914~acl=/hls-b/ingest_6441_*/*~hmac=b2f6724f03eaec0954b17fdb308c72dedb175c50fc6f241310434960e6f8a7fb/hls-b/ingest_6441_720p/index.m3u8
+#EXTINF: -1 tvg-logo="http://193.70.73.242:51651/images/zalindo/tvri.png" group-title="TV Lokal", TVRI Backup
+https://liveanevia.mncnow.id/live/eds/TVRI/sa_hls/TVRI.m3u8
+#EXTINF: -1 tvg-logo="http://193.70.73.242:51651/images/zalindo/transtv.png" group-title="TV Lokal", TRANS TV HD
+https://etslive-2-vidio-com.akamaized.net/exp=1589531820~acl=/hls-b/ingest_733_*/*~hmac=6760f409ea1f2e1d6ffd46d0897a16d20706bfaf68ce2381ab84cbbc886a43d4/hls-b/ingest_733_720p/index.m3u8
+#EXTINF: -1 tvg-logo="http://193.70.73.242:51651/images/zalindo/trans7.png" group-title="TV Lokal", TRANS 7 HD
+https://etslive-2-vidio-com.akamaized.net/exp=1589531952~acl=/hls-b/ingest_734_*/*~hmac=4052ff3e2c94bc010a5b5c1fc1e5a2d7283679ed75b1e62ecb21cbd8b2f03499/hls-b/ingest_734_720p/index.m3u8
+#EXTINF: -1 tvg-logo="http://193.70.73.242:51651/images/zalindo/gtv.png" group-title="TV Lokal", GTV HD
+https://etslive-2-vidio-com.akamaized.net/exp=1589531850~acl=/hls-b/ingest_778_*/*~hmac=c93a1bffb1fbcf50ea3c678c29c43745b17ed76344ee61c54645f7f015ab910b/hls-b/ingest_778_720p/index.m3u8
+#EXTINF: -1 tvg-logo="http://193.70.73.242:51651/images/zalindo/gtv.png" group-title="TV Lokal", GTV Backup
+http://id6.indostreamingtv.com/live/tv1/index.m3u8
+#EXTINF: -1 tvg-logo="http://193.70.73.242:51651/images/zalindo/tvone.png" group-title="TV Lokal", TV One Backup
+http://210.210.155.35/session/be487896-a900-11e9-9c8d-9a45a6ec88e8/qwr9ew/s/s105/02.m3u8
+#EXTINF: -1 tvg-logo="http://193.70.73.242:51651/images/zalindo/tvone.png" group-title="TV Lokal", TV One Backup 2
+http://202.80.222.174/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF: -1 tvg-logo="http://193.70.73.242:51651/images/zalindo/tvone.png" group-title="TV Lokal", TV One Backup 3
+https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(7e352a4d-dcc4-4c48-b06c-38c7b36b14d4)/index.m3u8
+#EXTINF: -1 tvg-logo="http://193.70.73.242:51651/images/zalindo/rcti.png" group-title="TV Lokal", RCTI HD
+https://etslive-2-vidio-com.akamaized.net/exp=1589532032~acl=/hls-b/ingest_665_*/*~hmac=8962d94809950a4bd4eb24ef535328a47377de296ef6635519c2fb3727b14242/hls-b/ingest_665_720p/index.m3u8
+#EXTINF: -1 tvg-logo="http://193.70.73.242:51651/images/zalindo/rcti.png" group-title="TV Lokal", RCTI Backup
+https://livetvhooq.akamaized.net/d182c52b34984076be9817e526e2bb5e/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005902~exp=9007200790746893~acl=/d182c52b34984076be9817e526e2bb5e/*/profile_0/chunklist.m3u8*~hmac=d3f38106d3b48f97b8cd3ff97e7e6d25a3f843a0875815c231a14b29bdd3ef34
+#EXTINF: -1 tvg-logo="http://193.70.73.242:51651/images/zalindo/rcti.png" group-title="TV Lokal", RCTI Backup
+https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
+#EXTINF: -1 tvg-logo="http://193.70.73.242:51651/images/zalindo/sctv.png" group-title="TV Lokal", SCTV HD
+https://etslive-2-vidio-com.akamaized.net/exp=1589531986~acl=/hls-b/ingest_204_*/*~hmac=192c9d64fd431be2b27d5483f413d3e1d4c71c6ebacd2a2bc53652b6c6e483a5/hls-b/ingest_204_720p/index.m3u8
+#EXTINF: -1 tvg-logo="http://193.70.73.242:51651/images/zalindo/indosiar.png" group-title="TV Lokal", Indosiar HD
+https://etslive-2-vidio-com.akamaized.net/exp=1589531927~acl=/hls-b/ingest_205_*/*~hmac=be7487b568e57b569e2c56c2d2be9c632b2e078cffe102ea2862b027e3f5ef61/hls-b/ingest_205_720p/index.m3u8
+#EXTINF: -1 tvg-logo="http://193.70.73.242:51651/images/zalindo/metrotv.png" group-title="TV Lokal", Metro TV HD
+https://etslive-2-vidio-com.akamaized.net/exp=1589531886~acl=/hls-b/ingest_777_*/*~hmac=f0118ddf4d892706f8b4919bbb381505115f8b80b201d6dfb13b927b53a9a85b/hls-b/ingest_777_720p/index.m3u8
+#EXTINF: -1 tvg-logo="http://193.70.73.242:51651/images/zalindo/antv.png" group-title="TV Lokal", ANTV Backup
+http://210.210.155.35/session/17fd9730-7161-11ea-8ff9-b82a72d63267/x6bnqe/s/s254/index100.m3u8?app_type=web&userid=y21y90mvt7&tkn=TCD2CMUJBW6LK00UTSESAMBPR4EY5SU9&chname=antv
+#EXTINF: -1 tvg-logo="http://193.70.73.242:51651/images/zalindo/antv.png" group-title="TV Lokal", ANTV Backup 2
+http://202.80.222.174/000001/2/ch14061215034900095272/1024.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF: -1 tvg-logo="http://193.70.73.242:51651/images/zalindo/antv.png" group-title="TV Lokal", ANTV Backup 3
+http://vpssg.iptv.my.id:19410/live/ambilinkini/semogarezekinyapindahkeadmindakocanamin/18.ts
+#EXTINF: -1 tvg-logo="http://193.70.73.242:51651/images/zalindo/mnctv.png" group-title="TV Lokal", MNC TV HD
+https://etslive-2-vidio-com.akamaized.net/exp=1589532061~acl=/hls-b/ingest_870_*/*~hmac=0678918e4a7139f24ff039eac223ee3a561e718ac96d53f2df68505997caec0a/hls-b/ingest_870_720p/index.m3u8
+#EXTINF: -1 tvg-logo="http://193.70.73.242:51651/images/zalindo/mnctv.png" group-title="TV Lokal", MNC TV Backup 1
+http://id6.indostreamingtv.com/live/mnctv/index.m3u8
+#EXTINF: -1 tvg-logo="http://193.70.73.242:51651/images/zalindo/mnctv.png" group-title="TV Lokal", MNC TV Backup 2
+https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
+#EXTINF: -1 tvg-logo="http://193.70.73.242:51651/images/zalindo/ochannel.png" group-title="TV Lokal", O Channel HD
+https://etslive-2-vidio-com.akamaized.net/exp=1589532061~acl=/hls-b/ingest_206_*/*~hmac=5600c160d462312c7060d493d475ce68fe38e40430f590bc132b6aff474dd4ee/hls-b/ingest_206_720p/index.m3u8
+#EXTINF: -1 tvg-logo="http://193.70.73.242:51651/images/zalindo/inewstv.png" group-title="TV Lokal", INEWS HD
+https://etslive-2-vidio-com.akamaized.net/exp=1589532061~acl=/hls-p/ingest_5409_*/*~hmac=00b028dda5282c62965a9db5f6ccd5c36f4206f523867ed52582961014e21b2b/hls-p/ingest_5409_720p/index.m3u8
+#EXTINF: -1 tvg-logo="http://193.70.73.242:51651/images/zalindo/inewstv.png" group-title="TV Lokal", INEWS Backup
+https://live.rctiplus.id/rctiplus/inews_720p.m3u8
+#EXTINF: -1 tvg-logo="http://193.70.73.242:51651/images/zalindo/jaktv.png" group-title="TV Lokal", JAK TV HD
+https://etslive-2-vidio-com.akamaized.net/exp=1589532062~acl=/hls-p/ingest_5415_*/*~hmac=791eb605072063f553fe8c00f7014e6d421142cd07e5a73f5ace90f79a94aad5/hls-p/ingest_5415_720p/index.m3u8
+#EXTINF: -1 tvg-logo="http://193.70.73.242:51651/images/zalindo/oshop.jpg" group-title="TV Lokal", O Shop HD
+https://etslive-2-vidio-com.akamaized.net/exp=1589532062~acl=/hls-p/ingest_6166_*/*~hmac=8eb1a18214df35ff77185a3004d0fd1b08d8279bbefae995678cda65c0c678fe/hls-p/ingest_6166_720p/index.m3u8
+#EXTINF: -1 tvg-logo="http://193.70.73.242:51651/images/zalindo/mytv.png" group-title="TV Lokal", MYTV HD
+https://etslive-2-vidio-com.akamaized.net/exp=1589531763~acl=/hls-p/ingest_6711_*/*~hmac=f36dbeb09d591e4fe183af99dd355bb3a1fbeb3f10914fa344c961d4ed0d1c28/hls-p/ingest_6711_720p/index.m3u8
+#EXTINF: -1 tvg-logo="http://193.70.73.242:51651/images/zalindo/daaitv.png" group-title="TV Lokal", DAAI TV HD
+https://etslive-2-vidio-com.akamaized.net/exp=1589532062~acl=/hls-p/ingest_6482_*/*~hmac=53dd879007fffc35dc902eb20413bbb0fd56eb8e36efc4721e9981abf6ee815a/hls-p/ingest_6482_720p/index.m3u8
